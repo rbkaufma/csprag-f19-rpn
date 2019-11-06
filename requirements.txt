@@ -15,4 +15,3 @@ setuptools
 skyfield>=1.10
 timezonefinder>=4.0.2
 tzlocal>=1.5.1
-wheel
